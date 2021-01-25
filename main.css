@@ -1,0 +1,21 @@
+.card {
+    height: 100%;
+}
+
+.profile-image {
+    margin: 0 auto;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    background-image: url('img/background.jpg');
+}
+
+.hero-title {
+    color: white;
+}
+
+a.no-pointer {
+    pointer-events: none;
+}
