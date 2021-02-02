@@ -23,3 +23,7 @@ body {
 a.no-pointer {
     pointer-events: none;
 }
+
+.media-content {
+    overflow: visible;
+}
